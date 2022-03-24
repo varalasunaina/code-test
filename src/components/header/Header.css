@@ -1,0 +1,26 @@
+.blue-background {
+    background-color: blue;
+    height: 100px;
+}
+
+.nav ul {
+    list-style: none;
+    display: flex;
+    background-color: #799bd0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+
+.nav ul li:after {
+    content: '|';
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+}

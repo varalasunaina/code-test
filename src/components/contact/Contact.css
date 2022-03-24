@@ -1,0 +1,26 @@
+.contact-form ul {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px;
+}
+
+.contact-form ul li {
+    flex: 1;
+    flex-basis: 50%;
+}
+
+.contact-section {
+    border: 1px solid #7a9bd0;
+    margin-bottom: 24px;
+}
+
+.contact-section h3 {
+    background: #7a9bd0;
+    color: #fff;
+    margin-bottom: 0;
+    padding: 4px;
+    font-size: 16px;
+    font-weight: bold;
+}

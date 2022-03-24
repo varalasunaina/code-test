@@ -1,0 +1,25 @@
+.interest-section {
+    border: 1px solid #7a9bd0;
+}
+
+.interest-section h3 {
+    background: #7a9bd0;
+    color: #fff;
+    margin-bottom: 0;
+    padding: 4px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.interests > div {
+    flex: 1;
+    flex-basis: 50%;
+}
+
+.general-interest {
+    background-color: #afc6eb;
+}
+
+.interests-list {
+    padding: 8px;
+}
